@@ -85,7 +85,7 @@ async def member_has_left(client: bot, member: ChatMemberUpdated):
 
         await client.send_animation(
             chat_id=member.chat.id,
-            animation="https://graph.org/file/bde4b31acd61fab0536c6.mp4",
+            animation="https://te.legra.ph/file/3cd32017658e67892b84d.mp4",
             caption=caption,
             reply_markup=user_button,
         )
