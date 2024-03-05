@@ -104,6 +104,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <p align="center">
-<a href="https://t.me/LuckyRaja0"> <img src="https://img.shields.io/badge/ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ -darkred?style=for-the-badge&logo=telegram" alt="AarohiX" /> </a>
+<a href="https://t.me/LuckyRaja0"> <img src="https://img.shields.io/badge/ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ 𝐋𝚄𝙲𝙺𝚈-darkred?style=for-the-badge&logo=telegram" alt="AarohiX" /> </a>
 </p>
 
