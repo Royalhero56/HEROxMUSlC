@@ -102,4 +102,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐇𝐄𝐑𝐎](https://github.com/Royalhero56) ғᴏʀ [𝐇𝐄𝐑𝐎](https://t.me/Iamcutehero) </b>
+- <b> <img src="https://img.shields.io/badge/ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ-darkgreen.
+
+<p align="center">
+<a href="https://t.me/LuckyRaja0"> <img src="https://img.shields.io/badge/𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰-darkred?style=for-the-badge&logo=telegram" alt="AarohiX" /> </a>
+</p>
+
