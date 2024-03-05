@@ -39,7 +39,7 @@ async def ping_com(client, message: Message, _):
 @app.on_callback_query(filters.regex("gib_source"))
 async def gib_repo_callback(_, callback_query):
     await callback_query.edit_message_media(
-        media=InputMediaVideo("https://te.legra.ph/file/d03391a86b480004e86e2.jpg", has_spoiler=True),
+        media=InputMediaPhoto("https://te.legra.ph/file/d03391a86b480004e86e2.jpg", has_spoiler=True),
         reply_markup=InlineKeyboardMarkup(
             [
                 [close_button]
